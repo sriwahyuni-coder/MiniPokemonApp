@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mini Pokemon App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="base_stats">Base Stats</string>
+    <string name="hp">HP</string>
+    <string name="atk">ATK</string>
+    <string name="def">DEF</string>
+    <string name="spd">SPD</string>
+    <string name="exp">EXP</string>
+    <string name="add_pokemon">Add Pokemon</string>
+    <string name="entry_your_pokemon_nickname">Entry Your Pokemon Nickname</string>
+    <string name="nickname">Nickname</string>
+    <string name="save">save</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+</resources>
